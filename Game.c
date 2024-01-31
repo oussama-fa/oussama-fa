@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main() {
+int main()
+{
+	//Guess Number Game !!
     int number_to_guess, player_guess, attempts = 0;
     srand(time(NULL));
 
