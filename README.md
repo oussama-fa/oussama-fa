@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oussama-fa
 - 👀 I’m interested in Coding / programming
 - 🌱 I’m currently learning C/C++ ; Go (Golang) ; HTML and CSS
-- 📫 How to Contact me : gmail : oussama05farah@gmail.com // insta :
+- 📫 How to Contact me : gmail : oussama05farah@gmail.com // insta : oussama._.farah
 - ⚡ Fun fact: While ( still alive == True ) { code ++ }
 
 <!---
