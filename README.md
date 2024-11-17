@@ -4,6 +4,8 @@
 
 I'm a **20-year-old** student at **1337 Khoribga**, pursuing a degree in **Computer Science**. Originally from **Fez**, Morocco, I’m passionate about learning and growing in the tech world. My goal is to become a **Game Developer**, and I am constantly working toward creating my own games in the future.
 
+[![oufarah's 42 stats](https://badge.mediaplus.ma/binary/oufarah)](https://github.com/oakoudad/badge42)
+
 🎮 **Gaming** has always been a huge part of my life. Whether it's playing or developing, I am always interested in how games are made, from graphics to mechanics.
 
 ## 🚀 My Goals
