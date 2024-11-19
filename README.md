@@ -24,8 +24,7 @@ I'm a **20-year-old** student at **1337 Khoribga**, pursuing a degree in **Compu
 ## 🌍 Connect with Me
 
 - 📱 **Instagram**: [@oussama._.farah](https://www.instagram.com/oussama._.farah/)
-- 💼 **LinkedIn**: [Oussama Fa](https://www.linkedin.com/in/oussama-fa/)
-- ✉️ **Email**: [oussama.email@example.com](mailto:oussama.email@example.com)
+- ✉️ **Email**: [oussama05farah@gmail.com](mailto:oussama05farah@gmail.com)
 
 ---
 
