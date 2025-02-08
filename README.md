@@ -47,14 +47,15 @@ I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 
 Here are some of my favorite projects:
 
-- **[push swap](https://github.com/oussama-fa/push_swap_42)**: A sorting algorithm project using stacks.
-- **[get_next_line](https://github.com/oussama-fa/First_Prjs_C)**: A function to read lines from a file descriptor.
-- **[ft_printf](https://github.com/oussama-fa/First_Prjs_C)**: A custom implementation of the `printf` function.
-- **[libft](https://github.com/oussama-fa/libft_42)**: My Own library in C.
-- **[pool_42](https://github.com/oussama-fa/Pool_42)**: My Pool in 1337 KH.
-- **[First_Prjs_C](https://github.com/oussama-fa/First_Prjs_C)**: My First projects in C.
-- **[Zone01](https://github.com/oussama-fa/Zone01)**: My Pool in Zone01Oujda.
-- **[Quad](https://github.com/oussama-fa/Quad)**: My Quad project draw a quad with Golang.
+- **[push swap](https://github.com/oussama-fa/so_long_42)**: It's `Game 2D` coded in C with MLX library.
+- **[push swap](https://github.com/oussama-fa/push_swap_42)**: A `sorting algorithm` project using stacks.
+- **[get_next_line](https://github.com/oussama-fa/get_next_line_42)**: A function to read lines from a file descriptor.
+- **[ft_printf](https://github.com/oussama-fa/ft_printf_42)**: A custom implementation of the `printf` function.
+- **[libft](https://github.com/oussama-fa/libft_42)**: `My Own library` in C.
+- **[pool_42](https://github.com/oussama-fa/Pool_42)**: My `Pool` in `1337 KH`.
+- **[First_Prjs_C](https://github.com/oussama-fa/First_Prjs_C)**: My First projects `in C`.
+- **[Zone01](https://github.com/oussama-fa/Zone01)**: My `Pool` in `Zone01Oujda`.
+- **[Quad](https://github.com/oussama-fa/Quad)**: My `Quad` project draw a quad with `Golang`.
 - **[My_Prjs_Photoshop_Illustrator](https://github.com/oussama-fa/My_Prjs_Photoshop_Illustrator)**: My Edits for imags and vectors `Designe`.
 
 ---
