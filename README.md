@@ -47,7 +47,7 @@ I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 
 Here are some of my favorite projects:
 
-- **[push swap](https://github.com/oussama-fa/so_long_42)**: It's `Game 2D` coded in C with MLX library.
+- **[so_long](https://github.com/oussama-fa/so_long_42)**: It's `Game 2D` coded in C with MLX library.
 - **[push swap](https://github.com/oussama-fa/push_swap_42)**: A `sorting algorithm` project using stacks.
 - **[get_next_line](https://github.com/oussama-fa/get_next_line_42)**: A function to read lines from a file descriptor.
 - **[ft_printf](https://github.com/oussama-fa/ft_printf_42)**: A custom implementation of the `printf` function.
