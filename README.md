@@ -47,7 +47,8 @@ I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 
 Here are some of my favorite projects:
 
-- **[minishell](https://github.com/oussama-fa/minishell_42)**: It's simple shell.
+- **[philosophers](https://github.com/oussama-fa/philosophers_42)**: learn `threads`.
+- **[minishell](https://github.com/oussama-fa/minishell_42)**: It's simple `shell`.
 - **[pipex](https://github.com/oussama-fa/pipex_42)**: It's `pipe` command in shell.
 - **[so_long](https://github.com/oussama-fa/so_long_42)**: It's `Game 2D` coded in C with MLX library.
 - **[push swap](https://github.com/oussama-fa/push_swap_42)**: A `sorting algorithm` project using stacks.
