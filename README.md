@@ -5,9 +5,11 @@
 I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Computer Science**. Originally from **Fez**, Morocco, I’m passionate about learning and growing in the tech world. My goal is to become a **Game Developer**, and I am constantly working toward creating my own games in the future.
 
 ---
-
-   [![oufarah's 42 stats](https://badge.mediaplus.ma/binary/oufarah)](https://github.com/oakoudad/badge42)
-
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/oufarah" alt="oufarah's 42 stats">
+  </a>
+</div>
 ---
 🎮 **Gaming** has always been a huge part of my life. Whether it's playing or developing, I am always interested in how games are made, from graphics to mechanics.
 
@@ -33,6 +35,9 @@ I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 ## 🌍 Connect with Me
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/oussama-farah-542153296">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.instagram.com/oussama._.farah/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
@@ -46,7 +51,7 @@ I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 ## 🎮 Featured Projects
 
 Here are some of my favorite projects:
-
+- **[Cub3d](https://github.com/oussama-fa/cub3d_42)**: 3D-like `raycasting` project built with `C` and `MiniLibX`.
 - **[philosophers](https://github.com/oussama-fa/philosophers_42)**: learn `threads`.
 - **[minishell](https://github.com/oussama-fa/minishell_42)**: It's simple `shell`.
 - **[pipex](https://github.com/oussama-fa/pipex_42)**: It's `pipe` command in shell.
