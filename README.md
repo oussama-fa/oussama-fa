@@ -11,15 +11,14 @@ I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
   </a>
 </div>
 ---
-## 🚀 My Goals
 
-- 📚 **Master Computer Science**: I'm focused on learning the core principles of programming, algorithms, and game design through my studies.
+- 📚 **Computer Science**: I'm focused on learning the core principles of programming, algorithms, Problem Solving, Build Low Level Projects.
 
 ---
 
 ## 🔧 Technologies & Skills
 
-- **Languages**: C, Go, C++
+- **Languages**: C, Go, C++, Python
 - **Interests**: Software Engineering
 - **Something else**: Photoshop, Illustrator, Premier Pro (I can edit videos and photos, and I build what I think is good!)
 
