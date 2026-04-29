@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Computer Science**. Originally from **Fez**, Morocco, I’m passionate about learning and growing in the tech world. My goal is to become a **Game Developer**, and I am constantly working toward creating my own games in the future.
+I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Computer Science**. Originally from **Fez**, Morocco, I’m passionate about learning and growing in the tech world.
 
 ---
 <div align="center">
@@ -11,23 +11,16 @@ I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
   </a>
 </div>
 ---
-🎮 **Gaming** has always been a huge part of my life. Whether it's playing or developing, I am always interested in how games are made, from graphics to mechanics.
-
----
-
 ## 🚀 My Goals
 
-- 🎮 **Build my own game**: I want to take my passion for gaming and turn it into something meaningful, by creating games that others can enjoy.
-- 💻 **Become a Game Developer**: I am working towards gaining the necessary skills to join the game development industry and contribute to exciting new projects.
 - 📚 **Master Computer Science**: I'm focused on learning the core principles of programming, algorithms, and game design through my studies.
 
 ---
 
 ## 🔧 Technologies & Skills
 
-- **Languages**: C, GDscript, Go, C++
-- **Tools & Frameworks**: GODOT
-- **Interests**: Game Development, Software Engineering
+- **Languages**: C, Go, C++
+- **Interests**: Software Engineering
 - **Something else**: Photoshop, Illustrator, Premier Pro (I can edit videos and photos, and I build what I think is good!)
 
 ---
@@ -51,6 +44,15 @@ I'm a **20-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 ## 🎮 Featured Projects
 
 Here are some of my favorite projects:
+- **[Cpp00](https://github.com/oussama-fa/Cpp08_42)**: Containers `STL`.
+- **[Cpp00](https://github.com/oussama-fa/Cpp07_42)**: templates.
+- **[Cpp00](https://github.com/oussama-fa/Cpp06_42)**: cpp casts.
+- **[Cpp00](https://github.com/oussama-fa/Cpp05_42)**: execptions.
+- **[Cpp00](https://github.com/oussama-fa/Cpp04_42)**: polymorphism.
+- **[Cpp00](https://github.com/oussama-fa/Cpp03_42)**: inheritence.
+- **[Cpp00](https://github.com/oussama-fa/Cpp02_42)**: Floating and Fixed Point `operators overloading`.
+- **[Cpp00](https://github.com/oussama-fa/Cpp01_42)**: Pointers and Refrence.
+- **[Cpp00](https://github.com/oussama-fa/Cpp00_42)**: intro to OOP.
 - **[Cub3d](https://github.com/oussama-fa/cub3d_42)**: 3D-like `raycasting` project built with `C` and `MiniLibX`.
 - **[philosophers](https://github.com/oussama-fa/philosophers_42)**: learn `threads`.
 - **[minishell](https://github.com/oussama-fa/minishell_42)**: It's simple `shell`.
@@ -69,5 +71,5 @@ Here are some of my favorite projects:
 ---
 
 <div align="center">
-  <h2>Let’s build something amazing together! 🚀</h2>
+  <h2> Your are Welcome To build with me a Project </h2>
 </div>
