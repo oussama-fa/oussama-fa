@@ -10,7 +10,6 @@ I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
     <img src="https://badge.mediaplus.ma/binary/oufarah" alt="oufarah's 42 stats">
   </a>
 </div>
----
 
 - 📚 **Computer Science**: I'm focused on learning the core principles of programming, algorithms, Problem Solving, Build Low Level Projects.
 
@@ -43,14 +42,14 @@ I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 ## 🎮 Featured Projects
 
 Here are some of my favorite projects:
-- **[Cpp00](https://github.com/oussama-fa/Cpp08_42)**: Containers `STL`.
-- **[Cpp00](https://github.com/oussama-fa/Cpp07_42)**: templates.
-- **[Cpp00](https://github.com/oussama-fa/Cpp06_42)**: cpp casts.
-- **[Cpp00](https://github.com/oussama-fa/Cpp05_42)**: execptions.
-- **[Cpp00](https://github.com/oussama-fa/Cpp04_42)**: polymorphism.
-- **[Cpp00](https://github.com/oussama-fa/Cpp03_42)**: inheritence.
-- **[Cpp00](https://github.com/oussama-fa/Cpp02_42)**: Floating and Fixed Point `operators overloading`.
-- **[Cpp00](https://github.com/oussama-fa/Cpp01_42)**: Pointers and Refrence.
+- **[Cpp08](https://github.com/oussama-fa/Cpp08_42)**: Containers `STL`.
+- **[Cpp07](https://github.com/oussama-fa/Cpp07_42)**: templates.
+- **[Cpp06](https://github.com/oussama-fa/Cpp06_42)**: cpp casts.
+- **[Cpp05](https://github.com/oussama-fa/Cpp05_42)**: execptions.
+- **[Cpp04](https://github.com/oussama-fa/Cpp04_42)**: polymorphism.
+- **[Cpp03](https://github.com/oussama-fa/Cpp03_42)**: inheritence.
+- **[Cpp02](https://github.com/oussama-fa/Cpp02_42)**: Floating and Fixed Point `operators overloading`.
+- **[Cpp01](https://github.com/oussama-fa/Cpp01_42)**: Pointers and Refrence.
 - **[Cpp00](https://github.com/oussama-fa/Cpp00_42)**: intro to OOP.
 - **[Cub3d](https://github.com/oussama-fa/cub3d_42)**: 3D-like `raycasting` project built with `C` and `MiniLibX`.
 - **[philosophers](https://github.com/oussama-fa/philosophers_42)**: learn `threads`.
