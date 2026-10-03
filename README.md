@@ -17,9 +17,8 @@ I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 
 ## 🔧 Technologies & Skills
 
-- **Languages**: C, Go, C++, Python
+- **Languages**: C, Golang, C++, Python, html, css, javascript
 - **Interests**: Software Engineering
-- **Something else**: Photoshop, Illustrator, Premier Pro (I can edit videos and photos, and I build what I think is good!)
 
 ---
 
@@ -42,6 +41,8 @@ I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 ## 🎮 Featured Projects
 
 Here are some of my favorite projects:
+
+- **[TODO-list](https://github.com/oussama-fa/TODO-list)**: learning `html`, `css` and `js`.
 - **[Cpp09](https://github.com/oussama-fa/Cpp09_42)**: Algorithm.
 - **[Cpp08](https://github.com/oussama-fa/Cpp08_42)**: Containers `STL`.
 - **[Cpp07](https://github.com/oussama-fa/Cpp07_42)**: templates.
