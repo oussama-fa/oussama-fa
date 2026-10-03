@@ -42,6 +42,7 @@ I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 ## 🎮 Featured Projects
 
 Here are some of my favorite projects:
+- **[Cpp09](https://github.com/oussama-fa/Cpp09_42)**: Algorithm.
 - **[Cpp08](https://github.com/oussama-fa/Cpp08_42)**: Containers `STL`.
 - **[Cpp07](https://github.com/oussama-fa/Cpp07_42)**: templates.
 - **[Cpp06](https://github.com/oussama-fa/Cpp06_42)**: cpp casts.
