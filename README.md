@@ -42,6 +42,7 @@ I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Comp
 
 Here are some of my favorite projects:
 
+- **[Tic-Tac-Toe](https://github.com/oussama-fa/Tic-Tac-Toe)**: learning `react`, `tailwind css` and `dark/light mode`.
 - **[TODO-list](https://github.com/oussama-fa/TODO-list)**: learning `html`, `css` and `js`.
 - **[Cpp09](https://github.com/oussama-fa/Cpp09_42)**: Algorithm.
 - **[Cpp08](https://github.com/oussama-fa/Cpp08_42)**: Containers `STL`.
