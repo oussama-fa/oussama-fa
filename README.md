@@ -14,7 +14,8 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=oussama-fa&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=oussama-fa&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-## About Me
+
+### About Me
 
 I'm a **21-year-old** student at **1337 Khouribga**, pursuing a degree in **Computer Science**. Originally from **Fez**, Morocco, I’m passionate about learning and growing in the tech world.
 
